@@ -1,10 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=160&section=header&text=Ol%C3%A1%2C%20eu%20sou%20o%20Edvaldo%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Analista%20de%20Sistemas%20%7C%20Omarchy%20%E2%80%A2%20Hyprland%20%E2%80%A2%20Arch%20Linux&descAlignY=55&descSize=14" />
 
 <p align="center">
-  <img src="eu.jpeg" width="150" height="150" style="border-radius:50%; border:3px solid #38bdf8" alt="Edvaldo" />
-</p>
-
-<p align="center">
   <a href="https://github.com/eds-4d5"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Analista+de+Sistemas+%7C+Brasil+%F0%9F%87%A7%F0%9F%87%B7;Omarchy+%2B+Hyprland+%2B+Quickshell+%2B+Arch+Linux;Apaixonado+por+automa%C3%A7%C3%A3o+e+open+source" alt="Typing SVG" /></a>
 </p>
 
