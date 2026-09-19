@@ -14,7 +14,9 @@
 
 ### 👨‍💻 Sobre mim
 
-> Analista de Sistemas • 🇧🇷 Brasil • Focado em Linux, automação e experiência desktop.
+> Analista de Sistemas e Infraestrutura • 🇧🇷 Brasil • Focado em Linux, automação, desenvolvimento e experiência desktop.
+
+Profissional de TI com sólida experiência em desenvolvimento de software (Python, PHP, JS), administração de ambientes e infraestrutura na nuvem (AWS/Linux/Windows Server), e bancos de dados. Combino visão estratégica com engenharia de soluções eficientes, sempre focado em automação e resolução de problemas.
 
 - 🐧 Uso **Arch Linux + Omarchy + Hyprland** no dia a dia
 - 🧩 Curto criar **plugins, widgets e automações** que deixam o desktop mais produtivo
@@ -40,6 +42,14 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arch,linux,bash,js,py,git" alt="skills" />
 </p>
+
+---
+
+### 📚 Educação e Certificações
+
+- 🎓 **Tecnologia em Análise e Desenvolvimento de Sistemas** (Ênfase em engenharia de software e integração de sistemas)
+- ⚙️ **Técnico em Eletroeletrônica / Manutenção**
+- 📜 **Especializações:** Python Developer, Fundamentos Web (HTML/CSS/JS/PHP), Controle de Versão com Git, Linux Administration, AWS Essentials, Arquitetura de Redes e Suporte Remoto Avançado.
 
 ---
 
